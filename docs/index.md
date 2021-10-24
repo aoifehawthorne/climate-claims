@@ -47,4 +47,5 @@ here's my go at a table...<br>
  here's an emoji <br>
   ....<br>
       ..... <br>
-  ta-da ...... :sparkles: markdown :sparkles:
+  ta-da ...... :sparkles: markdown :sparkles:<br><br>
+  water !! H<sub>2</sub>O
