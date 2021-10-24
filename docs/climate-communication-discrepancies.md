@@ -1,10 +1,10 @@
 ---
-title: <enter a different title here>
+title: <Climate claims assignment- Climate communication discrepancies>
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
-  # Climate claims assignment: Climate communication discrepancies
+  # Climate claims assignment- Climate communication discrepancies
   Aoife Hawthorne<br>
   ISCI3A12-A<br>
   24 October, 2021<br>
