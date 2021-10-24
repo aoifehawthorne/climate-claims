@@ -1,7 +1,7 @@
 ---
 title: <Climate claims assignment: Climate communication discrepancies>
 layout: default
-nav_order: 8
+nav_order: 0
 ---
 
   # Climate claims assignment: Climate communication discrepancies
